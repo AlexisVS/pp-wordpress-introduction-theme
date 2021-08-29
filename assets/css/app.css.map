@@ -1,0 +1,1 @@
+{"version":3,"sources":["modules/_style.sass","app.css"],"names":[],"mappings":"AAAA,SAEE,sBAAA,CADA,YCEF","file":"app.css","sourcesContent":[".bonjour\r\n  display: flex\r\n  border: 100px solid red",".bonjour {\n  display: flex;\n  border: 100px solid red;\n}"]}
